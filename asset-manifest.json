@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Educational/static/css/main.075d81aa.css",
+    "main.js": "/Educational/static/js/main.38bce7c1.js",
+    "static/media/back.webp": "/Educational/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/awrapper.webp": "/Educational/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/bg.webp": "/Educational/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/Educational/index.html",
+    "main.075d81aa.css.map": "/Educational/static/css/main.075d81aa.css.map",
+    "main.38bce7c1.js.map": "/Educational/static/js/main.38bce7c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.075d81aa.css",
+    "static/js/main.38bce7c1.js"
+  ]
+}
